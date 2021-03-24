@@ -1,62 +1,70 @@
-.Retro_Rainbow{
-position: absolute;
-width: 144px;
-height: 1117.98px;
-left: -1px;
-top: 258px;
+h1 {
+    color: #30303C;
+    font-family: Corben-Bold;
+    font-size: 48.83px;
+  }
+h2 {
+    color: #30303C;
+    font-family: Corben-Regular;
+    font-size: 39.06px;
 }
 
-.Color_Palette{
+
+div.Color_Palette {
 position: absolute;
 width: 415px;
 height: 422px;
 left: 45px;
 top: 802px;
-transform: rotate(-90deg);
+
 }
 
-.Graphic_Patterns{
+div.Graphic_Patterns {
 position: absolute;
 width: 405px;
 height: 498px;
 left: 530px;
 top: 797px;
-transform: rotate(-90deg);
+
 }
 
-.Case_Study_Inspo{
+.Typography_Scale {
+position: absolute;
+width: 405px;
+height: 498px;
+left: 530px;
+top: 797px;
+
+}
+
+
+
+div.Case_Study_Inspo {
 position: absolute;
 width: 415px;
 height: 422px;
 left: 540px;
 top: 1351px;
-transform: rotate(-90deg);
+
 }
 
-.Buttons{
+div.Buttons {
 position: absolute;
 width: 212px;
 height: 146px;
 left: 543px;
 top: 1896px;
-transform: rotate(-90deg);
+
 }
 
-.Icons_images{
+div.Icons_images {
 position: absolute;
 width: 114.13px;
 height: 198px;
 left: 776px;
 top: 1836.13px;
-transform: rotate(-90deg);
+
 }
 
-.Typography_Scale{
-position: absolute;
-width: 464px;
-height: 560px;
-left: 44px;
-top: 1879px;
-transform: rotate(-90deg);
-}
+
 
