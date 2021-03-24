@@ -1,70 +1,17 @@
 h1 {
     color: #30303C;
-    font-family: Corben-Bold;
+    font-family: Corben;
     font-size: 48.83px;
   }
 h2 {
     color: #30303C;
-    font-family: Corben-Regular;
+    font-family: Corben;
+    font-weight: normal;
     font-size: 39.06px;
 }
-
-
-div.Color_Palette {
-position: absolute;
-width: 415px;
-height: 422px;
-left: 45px;
-top: 802px;
-
+p{
+  color: #30303C;
+  font-family: Roboto;
+  font-weight: normal;
+  font-size: 16px;
 }
-
-div.Graphic_Patterns {
-position: absolute;
-width: 405px;
-height: 498px;
-left: 530px;
-top: 797px;
-
-}
-
-.Typography_Scale {
-position: absolute;
-width: 405px;
-height: 498px;
-left: 530px;
-top: 797px;
-
-}
-
-
-
-div.Case_Study_Inspo {
-position: absolute;
-width: 415px;
-height: 422px;
-left: 540px;
-top: 1351px;
-
-}
-
-div.Buttons {
-position: absolute;
-width: 212px;
-height: 146px;
-left: 543px;
-top: 1896px;
-
-}
-
-div.Icons_images {
-position: absolute;
-width: 114.13px;
-height: 198px;
-left: 776px;
-top: 1836.13px;
-
-}
-
-
-
